@@ -12,7 +12,7 @@ A simple Python-based DDoS tool for testing the strength of your server against 
 - Python 3.x
 - Required Python libraries listed in `install.sh`
 ## Preview:
-![Instagram Image ](https://raw.githubusercontent.com/thakur2309/StormRage/refs/heads/main/Screenshot_2025_0513_114337.jpg)
+![Instagram Image ](https://github.com/san121212/DDOS-ATTACK-BY-SANTOSH.gitScreenshot_2025_0513_114337.jpg)
 
 
 ### Termux Full Install and Setup 
@@ -29,7 +29,7 @@ pkg update && pkg upgrade -y
 pkg install git -y
 ```
 ```
-git clone https://github.com/thakur2309/StormRage.git
+git clone https://github.com/san121212/DDOS-ATTACK-BY-SANTOSH.git
 ```
 ```
 cd StormRage
@@ -49,16 +49,11 @@ python3 stormrage.py
 
 ## 📌 Contact Me  
 
-<a href="https://youtube.com/@firewallbreaker09">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>  
-<br>  
-
-<a href="https://github.com/thakur2309?tab=repositories">
+<a href="https://github.com/san121212/">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>  
 <br>  
 
-<a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
+<a href="https://whatsapp.com/+917275961559">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
 </a>
